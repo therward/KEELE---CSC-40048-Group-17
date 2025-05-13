@@ -2,7 +2,7 @@
 
 This has been created by Thomas Herward (20014189) and Chelsea Day (18008452) for Keele University
 
-The dataset that we have based our project on is available at Kaggle (click Kaggle to view)
+The dataset that we have based our project on is available at Kaggle: https://kaggle.com/datasets/meirnizri/covid19-dataset
 
 ## Index
 
