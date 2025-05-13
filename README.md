@@ -10,5 +10,5 @@ The dataset that we have based our project on is available at Kaggle (click Kagg
 - Covid_Data_Cleaned.csv - This is the dataset after our pre-processing has been applied.
 - Graphs.zip - This folder contains all of the data visualisations created for our project, also visible in our report
 - PreProcessingAndVisualisations.py - This is where our code for the pre-processing and visualsations steps are
-- Machine Learning Folder - this contains all of the code for the machine learning questions 
+- Machine Learning Algorithms Folder - this contains all of the code for the machine learning questions 
 - Matrix Graphics - this contains all of the matrix to answer question 5 
